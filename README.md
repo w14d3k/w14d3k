@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @kod3ch
-- 👀 I’m interested in doin' nothing
-- 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on not givin' fk about everything
-- 📫 How to reach me? Better not.
-
-<!---
-kod3ch/kod3ch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Cześć, jestem, Władek
+- 👀 Jestem zainteresowany lotnictwem komercyjnym, samochodami i programowaniem
+- 🌱 W tym momencie nabieram doświadczenia w JavaScript oraz React, które pomoże mi w napisaniu pracy dyplomowej :)
+- 💞️ Szukam znajomych, którzy rozdzielają moje pasje oraz pomogą mi zrozumieć Fron-End i React
+- 📫 Możecie skontaktować się ze mną przez email [artemenko.wlad@gmail.com](mailto:artemenko.wlad@gmail.com "Link do poczty") lub [Facebook](https://fb.com/kod3ch "Facebook")

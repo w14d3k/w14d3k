@@ -1,5 +1,5 @@
-- 👋 Cześć, jestem, Władek
-- 👀 Jestem zainteresowany lotnictwem komercyjnym, samochodami i programowaniem
-- 🌱 W tym momencie nabieram doświadczenia w JavaScript oraz React, które pomoże mi w napisaniu pracy dyplomowej :)
-- 💞️ Szukam znajomych, którzy rozdzielają moje pasje oraz pomogą mi zrozumieć Fron-End i React
-- 📫 Możecie skontaktować się ze mną przez email [artemenko.wlad@gmail.com](mailto:artemenko.wlad@gmail.com "Link do poczty") lub [Facebook](https://fb.com/kod3ch "Facebook")
+- 👋 Hi, I'm Vladyslav
+- 👀 I'm interested in commercial aviation, cars and programming
+- 🌱 I'm currently gaining experience in JavaScript/TypeScript and React :)
+- 😊 I'm looking for friends who share my passions and help me understand Fron-End and React
+- 📫 You can contact me via email [artemenko.wlad@gmail.com](mailto:artemenko.wlad@gmail.com "Mail link") or [Facebook](https://fb.com/w1add "Facebook")
